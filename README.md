@@ -4,6 +4,8 @@
 Here we are analyzing rideshare data to compare weekly fares for 3 different city type - rural, suburban, and urban. 
 
 ## Results
+![Total Fare by City Type](analysis/PyBer_fare_summary.png)
+
 Based on the line chart, we can see that fare prices increase with higher trafficked. Urban cities have a higher average fare while rural areas are a lot cheaper. While fares in March seems to be slightly higher on average, there isn't much fluctuation for each city type other than a rapid increase in suburban areas around mid-April.
 
 ## Summary
